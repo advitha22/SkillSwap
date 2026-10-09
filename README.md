@@ -9,9 +9,11 @@ SkillSwap uses semantic AI to discover students with complementary skills on cam
 ## 🌟 Table of Contents
 1. [The Problem & Vision](#-the-problem--vision)
 2. [Key Features](#-key-features)
-3. [Architecture & Tech Stack](#-architecture--tech-stack)
-4. [Project Structure](#-project-structure)
-5. [Quick Start (Beginner's Step-by-Step Guide)](#-quick-start-beginners-step-by-step-guide)
+3. [How the App Works](#-how-the-app-works)
+4. [Screenshots](#-screenshots)
+5. [Architecture & Tech Stack](#-architecture--tech-stack)
+6. [Project Structure](#-project-structure)
+7. [Quick Start (Beginner's Step-by-Step Guide)](#-quick-start-beginners-step-by-step-guide)
 
 ---
 
@@ -49,6 +51,56 @@ $$\text{User Skills} \longrightarrow \text{AI Semantic Understanding} \longright
    Includes 10 realistic university student profiles with intentionally paired complementary skill sets.
 8. **Gender & Interactive Avatar Gallery:**
    Choose gender as **Male**, **Female**, or **Other**. Pick from gender presets or 5 neutral characters (*Nova Bot*, *Echo Spark*, *Pixel Hero*, *Sparky Emoji*, *Orbit Gear*) that do not imply gender.
+
+---
+
+## 🔄 How the App Works
+
+SkillSwap guides students from describing their skills to arranging a peer-to-peer exchange. The main navigation gives access to **Explore**, **Best Matches**, **Requests**, and **My Profile**.
+
+### 1. Start from Explore
+
+The landing page introduces the exchange idea—teach a skill you already know and learn one you want—and offers shortcuts to browse matches or create a profile.
+
+### 2. Create or update a student profile
+
+In **My Profile**, provide your name and college, then optionally add a student email and short bio or major. Choose a gender and one of five neutral character avatars. Add at least one skill you can teach and one skill you want to learn; each skill can include a proficiency level and optional description. Save the profile to return to the matching dashboard. You can also create additional demo personas and switch between profiles using the navigation bar.
+
+### 3. Browse personalized matches
+
+**Best Matches** compares the active profile's teaching skills and learning goals with other student profiles. The dashboard shows the matching engine in use, your top compatibility score, mutual-exchange count, and the number of skills you teach and want to learn. Each match card includes a compatibility score, the proposed exchange, an explanation, and the other student's skills. Search by student, college, skill, or explanation; filter by mutual exchanges or teaching direction; sort by compatibility or name. Open a student's profile for more detail.
+
+### 4. Send an exchange request
+
+Choose **Connect** on a match to review a suggested swap and a prefilled message. Edit or copy the message, then send the request. The app records it in the recipient's incoming requests and your outgoing requests; the send confirmation is simulated and does not send a real email notification.
+
+### 5. Respond and coordinate
+
+In **Requests**, review incoming invitations and accept or decline them, or check the status of requests you have sent. Once a request is accepted, the app reveals the other student's contact email so you can coordinate the exchange directly.
+
+The profile selector in the top bar is provided for switching between student personas during a demo. The reset button restores the original sample profiles and requests.
+
+---
+
+## 📸 Screenshots
+
+<details>
+<summary>Explore — landing page</summary>
+
+![SkillSwap Explore landing page](docs/screenshots/explore-landing.png)
+</details>
+
+<details>
+<summary>Best Matches — personalized student dashboard</summary>
+
+![SkillSwap Best Matches dashboard with compatibility scores and filters](docs/screenshots/matches-dashboard.png)
+</details>
+
+<details>
+<summary>My Profile — profile setup and avatar selection</summary>
+
+![SkillSwap profile setup with student details and avatar selection](docs/screenshots/profile-setup.png)
+</details>
 
 ---
 
