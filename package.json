@@ -1,0 +1,13 @@
+{
+  "name": "skillswap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SkillSwap - AI-Powered Student Skill Exchange Platform",
+  "type": "module",
+  "scripts": {
+    "dev": "node dev.js",
+    "start:server": "npm --prefix server start",
+    "start:client": "npm --prefix client dev",
+    "install:all": "npm --prefix server install && npm --prefix client install"
+  }
+}

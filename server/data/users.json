@@ -1,0 +1,347 @@
+[
+  {
+    "id": "user-1",
+    "name": "Ananya Sharma",
+    "gender": "Female",
+    "college": "Apex Institute of Technology",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=NovaBot&colors=indigo,teal,amber",
+    "bio": "Sophomore Computer Science student passionate about coding and debate club. Looking to level up my design skills for upcoming hackathons!",
+    "canTeach": [
+      {
+        "skill": "Python Programming",
+        "level": "Advanced",
+        "description": "Object-oriented programming, data structures, backend logic"
+      },
+      {
+        "skill": "Public Speaking",
+        "level": "Intermediate",
+        "description": "Presentation confidence, debate structuring, speech delivery"
+      },
+      {
+        "skill": "Canva Graphic Design",
+        "level": "Intermediate",
+        "description": "Poster design, slide deck creation, social media graphics"
+      }
+    ],
+    "wantsToLearn": [
+      {
+        "skill": "UI/UX Design with Figma",
+        "level": "Beginner",
+        "description": "Wireframing, UI components, interactive prototyping"
+      },
+      {
+        "skill": "Video Editing",
+        "level": "Beginner",
+        "description": "Short-form video creation and reel editing"
+      }
+    ],
+    "contactEmail": "ananya.sharma@apex.edu",
+    "createdAt": "2026-10-01T10:00:00Z"
+  },
+  {
+    "id": "user-2",
+    "name": "Rahul Verma",
+    "gender": "Male",
+    "college": "National Institute of Design",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=EchoSpark&colors=cyan,purple",
+    "bio": "Junior UX design enthusiast. I want to learn Python so I can build functional prototypes and automate design tokens for my portfolio apps!",
+    "canTeach": [
+      {
+        "skill": "UI/UX Design & Figma",
+        "level": "Advanced",
+        "description": "Design systems, Figma auto-layout, wireframes, user testing"
+      },
+      {
+        "skill": "Graphic Design Principles",
+        "level": "Advanced",
+        "description": "Color theory, typography, hierarchy, brand identity"
+      }
+    ],
+    "wantsToLearn": [
+      {
+        "skill": "Python Programming",
+        "level": "Beginner",
+        "description": "Python scripting, automating tasks, backend basics"
+      },
+      {
+        "skill": "Web Development Basics",
+        "level": "Beginner",
+        "description": "HTML, CSS, connecting APIs to design mockups"
+      }
+    ],
+    "contactEmail": "rahul.verma@nid.edu",
+    "createdAt": "2026-10-01T11:00:00Z"
+  },
+  {
+    "id": "user-3",
+    "name": "Priya Nair",
+    "gender": "Female",
+    "college": "Metro University of Arts & Media",
+    "avatar": "https://api.dicebear.com/7.x/pixel-art/svg?seed=CyberPixel",
+    "bio": "Film & Media student. I love creating aesthetic reels and color-grading YouTube videos, but I get super nervous speaking in front of large crowds!",
+    "canTeach": [
+      {
+        "skill": "Video Editing (Premiere & DaVinci)",
+        "level": "Advanced",
+        "description": "Timeline pacing, transitions, color grading, sound sync"
+      },
+      {
+        "skill": "Content Creation & Storytelling",
+        "level": "Intermediate",
+        "description": "Scripting short videos, hooks, visual pacing"
+      }
+    ],
+    "wantsToLearn": [
+      {
+        "skill": "Public Speaking & Presentations",
+        "level": "Beginner",
+        "description": "Overcoming stage fright, persuasive pitch speaking"
+      },
+      {
+        "skill": "Interview Preparation",
+        "level": "Beginner",
+        "description": "Confident verbal communication for internship interviews"
+      }
+    ],
+    "contactEmail": "priya.nair@metrouniv.edu",
+    "createdAt": "2026-10-02T09:30:00Z"
+  },
+  {
+    "id": "user-4",
+    "name": "Rohan Mehta",
+    "gender": "Male",
+    "college": "City Business School",
+    "avatar": "https://api.dicebear.com/7.x/fun-emoji/svg?seed=HappySpark",
+    "bio": "President of the Campus Entrepreneurship Club. I pitch ideas to investors regularly, but desperately need to learn video editing for marketing campaigns.",
+    "canTeach": [
+      {
+        "skill": "Public Speaking & Pitching",
+        "level": "Advanced",
+        "description": "Startup pitch decks, stage presence, convincing storytelling"
+      },
+      {
+        "skill": "Excel Financial Modeling",
+        "level": "Intermediate",
+        "description": "Formulas, budgets, P&L forecasts, clean spreadsheets"
+      }
+    ],
+    "wantsToLearn": [
+      {
+        "skill": "Video Editing for Social Media",
+        "level": "Beginner",
+        "description": "Reels, TikToks, captions, Premiere Pro workflow"
+      },
+      {
+        "skill": "Canva & Brand Posters",
+        "level": "Beginner",
+        "description": "Quick graphic design for marketing campaigns"
+      }
+    ],
+    "contactEmail": "rohan.mehta@citybiz.edu",
+    "createdAt": "2026-10-02T14:15:00Z"
+  },
+  {
+    "id": "user-5",
+    "name": "Maya Patel",
+    "gender": "Female",
+    "college": "Tech Institute of Bangalore",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=OrbitGear&colors=blue,emerald",
+    "bio": "Data Science senior. I train ML models in Jupyter notebooks all day, but I want to learn React to turn my models into interactive web applications!",
+    "canTeach": [
+      {
+        "skill": "Machine Learning with Python",
+        "level": "Advanced",
+        "description": "Scikit-Learn, Pandas data analysis, model evaluation"
+      },
+      {
+        "skill": "Math & Applied Statistics",
+        "level": "Advanced",
+        "description": "Probability distributions, hypothesis testing, linear algebra"
+      }
+    ],
+    "wantsToLearn": [
+      {
+        "skill": "Frontend Web Development (React)",
+        "level": "Beginner",
+        "description": "React components, state management, connecting to REST APIs"
+      },
+      {
+        "skill": "Tailwind CSS Styling",
+        "level": "Beginner",
+        "description": "Responsive layout design, modern clean dashboards"
+      }
+    ],
+    "contactEmail": "maya.patel@techbangalore.edu",
+    "createdAt": "2026-10-03T10:00:00Z"
+  },
+  {
+    "id": "user-6",
+    "name": "Carlos Gomez",
+    "gender": "Male",
+    "college": "Metropolitan College of Engineering",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=NovaBot&colors=indigo,teal,amber",
+    "bio": "Passionate frontend developer. I build slick, responsive React & Tailwind websites, and want to branch into AI and machine learning basics.",
+    "canTeach": [
+      {
+        "skill": "Frontend Development with React",
+        "level": "Advanced",
+        "description": "Hooks, component architecture, Tailwind CSS, clean UI"
+      },
+      {
+        "skill": "JavaScript & Modern Web Tools",
+        "level": "Advanced",
+        "description": "ES6+, Vite, async APIs, responsive web design"
+      }
+    ],
+    "wantsToLearn": [
+      {
+        "skill": "Machine Learning with Python",
+        "level": "Beginner",
+        "description": "Understanding neural nets, training classifiers, Python libraries"
+      },
+      {
+        "skill": "Data Analysis",
+        "level": "Beginner",
+        "description": "Working with CSVs, datasets, and Pandas"
+      }
+    ],
+    "contactEmail": "carlos.gomez@metroeng.edu",
+    "createdAt": "2026-10-03T16:20:00Z"
+  },
+  {
+    "id": "user-7",
+    "name": "Sarah Jenkins",
+    "gender": "Female",
+    "college": "State College of Liberal Arts",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=EchoSpark&colors=cyan,purple",
+    "bio": "Spanish literature major and polyglot. I would love to exchange conversational Spanish practice for acoustic guitar lessons!",
+    "canTeach": [
+      {
+        "skill": "Conversational Spanish",
+        "level": "Advanced",
+        "description": "Everyday vocabulary, pronunciation, natural dialogue, grammar"
+      },
+      {
+        "skill": "Creative Writing & Essay Editing",
+        "level": "Advanced",
+        "description": "Proofreading, narrative flow, vocabulary enhancement"
+      }
+    ],
+    "wantsToLearn": [
+      {
+        "skill": "Acoustic Guitar",
+        "level": "Beginner",
+        "description": "Basic chords, strumming patterns, fingerpicking"
+      },
+      {
+        "skill": "Music Theory Basics",
+        "level": "Beginner",
+        "description": "Scales, keys, reading sheet music / tabs"
+      }
+    ],
+    "contactEmail": "sarah.jenkins@scla.edu",
+    "createdAt": "2026-10-04T08:45:00Z"
+  },
+  {
+    "id": "user-8",
+    "name": "David Chen",
+    "gender": "Male",
+    "college": "St. Jude Conservatory of Music",
+    "avatar": "https://api.dicebear.com/7.x/pixel-art/svg?seed=CyberPixel",
+    "bio": "Guitarist and bedroom indie music producer. Backpacking across South America next summer, so I need to learn Spanish quickly!",
+    "canTeach": [
+      {
+        "skill": "Acoustic & Electric Guitar",
+        "level": "Advanced",
+        "description": "Chords, scales, fingerstyle, rhythm timing, song learning"
+      },
+      {
+        "skill": "Music Production & Audio Recording",
+        "level": "Intermediate",
+        "description": "Ableton Live basics, mic setup, vocal recording"
+      }
+    ],
+    "wantsToLearn": [
+      {
+        "skill": "Conversational Spanish",
+        "level": "Beginner",
+        "description": "Travel phrases, conversational fluency, listening comprehension"
+      },
+      {
+        "skill": "Creative Writing",
+        "level": "Beginner",
+        "description": "Song lyric writing and poetic imagery"
+      }
+    ],
+    "contactEmail": "david.chen@stjude.edu",
+    "createdAt": "2026-10-04T12:00:00Z"
+  },
+  {
+    "id": "user-9",
+    "name": "Aisha Al-Mansoor",
+    "gender": "Female",
+    "college": "Global Business Academy",
+    "avatar": "https://api.dicebear.com/7.x/fun-emoji/svg?seed=HappySpark",
+    "bio": "Finance & Economics student interested in FinTech. I know financial analysis inside out, but want to learn SQL to pull data straight from databases.",
+    "canTeach": [
+      {
+        "skill": "Personal Finance & Investing",
+        "level": "Advanced",
+        "description": "Budgeting, stock market fundamentals, index funds, portfolio building"
+      },
+      {
+        "skill": "Advanced Excel & Financial Spreadsheets",
+        "level": "Advanced",
+        "description": "VLOOKUP/XLOOKUP, Pivot tables, financial functions, charts"
+      }
+    ],
+    "wantsToLearn": [
+      {
+        "skill": "SQL & Relational Databases",
+        "level": "Beginner",
+        "description": "Writing SELECT queries, JOINs, aggregating business data"
+      },
+      {
+        "skill": "Python Automation",
+        "level": "Beginner",
+        "description": "Automating CSV reports and routine tasks"
+      }
+    ],
+    "contactEmail": "aisha.mansoor@gba.edu",
+    "createdAt": "2026-10-05T14:30:00Z"
+  },
+  {
+    "id": "user-10",
+    "name": "Vikram Rao",
+    "gender": "Male",
+    "college": "Global Engineering Institute",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=OrbitGear&colors=blue,emerald",
+    "bio": "Database administrator and backend programmer. Want to learn personal investing and Excel financial modeling in exchange for teaching SQL and Python.",
+    "canTeach": [
+      {
+        "skill": "SQL Database Queries & Design",
+        "level": "Advanced",
+        "description": "PostgreSQL, complex joins, indexing, database schema design"
+      },
+      {
+        "skill": "Python Scripting & Automation",
+        "level": "Advanced",
+        "description": "Automating files, web scraping, data transformation"
+      }
+    ],
+    "wantsToLearn": [
+      {
+        "skill": "Personal Finance & Stock Market",
+        "level": "Beginner",
+        "description": "Stock investing fundamentals, financial independence planning"
+      },
+      {
+        "skill": "Advanced Excel Spreadsheets",
+        "level": "Beginner",
+        "description": "Financial modeling, dashboard formulas, pivots"
+      }
+    ],
+    "contactEmail": "vikram.rao@gei.edu",
+    "createdAt": "2026-10-05T17:00:00Z"
+  }
+]

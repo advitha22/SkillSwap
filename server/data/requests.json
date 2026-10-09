@@ -1,0 +1,13 @@
+[
+  {
+    "id": "req-1",
+    "fromUserId": "user-2",
+    "toUserId": "user-1",
+    "suggestedExchange": "Rahul teaches you UI/UX Design & Figma ↔ You teach Rahul Python Programming",
+    "compatibility": 94,
+    "message": "Hi Ananya! 👋 I saw on SkillSwap that you are an expert in Python and want to learn UI/UX design. I'd love to teach you Figma prototyping in exchange for some Python lessons. Let's do a swap session this week!",
+    "status": "accepted",
+    "createdAt": "2026-10-07T14:30:00Z",
+    "updatedAt": "2026-10-08T17:14:51.505Z"
+  }
+]
