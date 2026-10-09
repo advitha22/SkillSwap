@@ -1,4 +1,5 @@
 # SkillSwap 🔄 | AI-Powered Student Skill Exchange Platform
+SkillSwap uses semantic AI to discover students with complementary skills on campus. Match directly, exchange knowledge peer-to-peer, and grow together.
 
 > **"Teach what you know. Learn what you want."**  
 > SkillSwap is an intelligent, reciprocal skill-exchange platform tailored for university students. Using AI, it analyzes natural-language skill descriptions, identifies bilateral complementary pairings (e.g., Python ↔ UI/UX Design), and calculates compatibility scores to recommend peer mentors on campus.
