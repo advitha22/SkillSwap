@@ -12,11 +12,6 @@ SkillSwap uses semantic AI to discover students with complementary skills on cam
 3. [Architecture & Tech Stack](#-architecture--tech-stack)
 4. [Project Structure](#-project-structure)
 5. [Quick Start (Beginner's Step-by-Step Guide)](#-quick-start-beginners-step-by-step-guide)
-6. [Gemini AI Setup & Secure Configuration](#-gemini-ai-setup--secure-configuration)
-7. [Intelligent Fallback Matching (Zero-Downtime Demo)](#-intelligent-fallback-matching-zero-downtime-demo)
-8. [Sample Personas for Hackathon Demonstrations](#-sample-personas-for-hackathon-demonstrations)
-9. [Hackathon Demo Pitch Guide](#-hackathon-demo-pitch-guide)
-10. [Testing & Verification](#-testing--verification)
 
 ---
 
